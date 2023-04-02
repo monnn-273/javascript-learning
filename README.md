@@ -1,0 +1,58 @@
+## **Loop Exercises - Skilvul**
+
+### **Exercise 1**
+
+Buat sebuah program yang menampilkan teks ‘User ke - 1 … User ke - 100’ pada setiap baris di
+halaman HTML.
+Lakukan **FOR LOOP** pada Javascript
+
+**_File jawaban_** : _loop_exercise1.js_
+
+### **Exercise 2**
+
+Lakukan pengulangan menggunakan **FOR LOOP** untuk melakukan penambahan nilai sebanyak 10 kali.
+
+- Nilai awal = 0
+- Pengulangan = 10 kali
+- Nilai awal ditambah 2 setiap pengulangan
+- Tampilan hasil penambahan pada setiap pengulangan
+
+**_File jawaban_** : _loop_exercise2.js_
+
+### **Exercise 3**
+
+Lakukan pengulangan dengan **FOR LOOP** yang melakukan iterasi dari 0..20.
+
+- Setiap iterasi/pengulangan lakukan pengecekan apakah nilai tersebut ganjil atau genap.
+- Tampilkan keterangan ganjil dan genap pada sebuah nilai setiap pengulangan
+
+**_File jawaban_** : _loop_exercise3.js_
+
+### **Exercise 4**
+
+Tampilkan sebuah Konfirmasi Pop Up kepada user menggunakan _confirm();_
+
+- Berikan teks ‘Apakah anda mau mengulang’ pada box confirm
+- Jika user memilih ‘OK’ maka program akan terus menampilan pop up yang sama
+- Jika user memilih ‘Cancel’ maka program akan menampilkan teks ‘Perulangan sudah dilakukan
+  sebanyak …(jumlah klik OK yang dilakukan user)
+
+**_File jawaban_** : _loop_exercise4.js_
+
+### **Exercise 5**
+
+5. Buat sebuah program kuis.
+
+- Tampilkan prompt() untuk meminta inputan dari user. Tampilan teks ‘Sebutkan kepanjangan dari
+  nama IB (Impact Byte)?’
+- Lakukan pengecekan apakah jawaban dari user sudah benar
+- Jika benar, tampilkan alert ‘Selamat jawaban kamu benar’
+- Jika salah, lakukan pengulangan untuk menampilkan prompt() yg sama hingga jawaban dari user benar
+
+**_File jawaban_** : _loop_exercise5.js_
+
+---
+
+## **Additional Notes**
+
+Use _loop_exercise.html_ to link external Javascript on this repository in order to test the program on browser.
